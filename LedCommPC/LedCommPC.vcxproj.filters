@@ -23,6 +23,9 @@
     <ClInclude Include="src\SerialArduino.h">
       <Filter>src</Filter>
     </ClInclude>
+    <ClInclude Include="src\ledColors.h">
+      <Filter>src</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="icon.rc" />

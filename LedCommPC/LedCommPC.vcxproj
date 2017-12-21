@@ -176,6 +176,7 @@
     <ClCompile Include="src\SerialArduino.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\ledColors.h" />
     <ClInclude Include="src\ofApp.h" />
     <ClInclude Include="src\SerialArduino.h" />
   </ItemGroup>

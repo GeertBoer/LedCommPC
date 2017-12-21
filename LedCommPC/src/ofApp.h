@@ -7,6 +7,7 @@ class ofApp : public ofBaseApp{
 
 	public:
 		void setup();
+		void LEDPulse();
 		void update();
 		void draw();
 

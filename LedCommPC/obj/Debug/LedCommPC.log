@@ -1,10 +1,17 @@
-﻿  ofApp.cpp
-C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+﻿  SerialArduino.cpp
+  ofApp.cpp
+C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\SerialArduino.cpp)
+C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\SerialArduino.cpp)
+C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\SerialArduino.cpp)
+C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\SerialArduino.cpp)
+C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\SerialArduino.cpp)
+C:\Users\geert\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\SerialArduino.cpp)
   LedCommPC.vcxproj -> C:\Users\geert\Documents\GitHub\LedCommPC\LedCommPC\bin\LedCommPC_debug.exe
   LedCommPC.vcxproj -> bin\LedCommPC_debug.pdb (Full PDB)
   
