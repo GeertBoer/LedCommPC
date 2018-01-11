@@ -8,6 +8,5 @@ private:
 	char receiveBuffer[4];
 public:
 	ReceiveClass();
-	
-	int GetTrigger();
+	int GetTrigger(); //returns step number which is being triggered, or -1 if no trigger.
 };
